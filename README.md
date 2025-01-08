@@ -28,10 +28,8 @@ This project implements and compares the performance between four different dict
 ### Scatter Plots
 
 #### Performance of Chain, LP, and Cuckoo
-![Scatter Plot: Chain, LP, Cuckoo](benchmkark_performance.png)
+![Scatter Plot: Chain, LP, Cuckoo](benchmark_performance.png)
 
-#### Comparison of Naive and Chain
-![Scatter Plot: Naive vs Chain](benchmark_performance.png)
 
 ### Adjusted Insights
 
