@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore checkpoint files
+*.checkpoint
+*.ckpt
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore .obj and .exe
+benchmark.obj
+benchmark.exe
+
+# Ignore a specific directory
+.ipynb_checkpoints/
+
